@@ -51,6 +51,13 @@ Check out the live demo: [Weather App Live](https://oneclickmyweatherapp.netlify
 - 
 ---
 
+## APIs Used 📡
+
+- [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API): To fetch the user's current location.
+- [OpenWeatherMap API](https://openweathermap.org/api) *(or any other weather API)*: To get weather data for the user's location.
+
+---
+
 ## Usage Instructions ▶️
 
 1. Allow the browser to access your location when prompted.
